@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    margin-bottom: 1rem;
+}
+
+#menu .card {
+    margin-bottom: 1rem;
+}
+
+#cart li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#cart li span {
+    font-weight: bold;
+}
+
+button.remove {
+    border: none;
+    background-color: transparent;
+    color: red;
+    cursor: pointer;
+}
+
+footer {
+    margin-top: 2rem;
+}

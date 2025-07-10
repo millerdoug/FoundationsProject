@@ -1,0 +1,6 @@
+[
+  { "name": "Margherita Pizza", "description": "Classic pizza with tomatoes and mozzarella", "price": 8.99 },
+  { "name": "Veggie Burger", "description": "Grilled veggie patty with lettuce and tomato", "price": 6.49 },
+  { "name": "Caesar Salad", "description": "Romaine lettuce with Caesar dressing and croutons", "price": 5.99 },
+  { "name": "Spaghetti Bolognese", "description": "Pasta with rich meat sauce", "price": 9.49 }
+]
